@@ -1,3 +1,4 @@
 /require-slim/vendor
+/require-slim/config
 /slim/vendor
 /slim-skeleton/vendor
